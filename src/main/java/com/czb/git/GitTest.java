@@ -1,0 +1,14 @@
+package com.czb.git;
+
+/**
+ * @ClassName: GitTest
+ * @Description:
+ * @Author: 19190244 曹子邦
+ * @Date: 2021/07/23 17:31
+ */
+
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
