@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Hello Git!");
         System.out.println("Hello GitHUb!");
         System.out.println("Hello Git、GitHUb!");
+        System.out.println("Hello IDEA、Git、GitHUb!");
     }
 }
